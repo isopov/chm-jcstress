@@ -1,0 +1,14 @@
+#Eclipse
+.settings
+.project
+.classpath
+
+#maven
+target
+
+#Gedit
+*~
+
+#Jcstress
+jcstress-results-*
+results/
